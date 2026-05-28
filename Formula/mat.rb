@@ -1,8 +1,8 @@
 class Mat < Formula
   desc "여러 AI CLI(Claude Code, Codex, Gemini/Antigravity) 계정을 하나의 TUI에서 전환"
   homepage "https://github.com/ictechgy/multi-account-tool"
-  url "https://registry.npmjs.org/multi-account-tool/-/multi-account-tool-0.3.1.tgz"
-  sha256 "a27a81ed11680609ba62d52e9794e85d358c1f6e3e76b915a8042dd4faaaaef6"
+  url "https://registry.npmjs.org/multi-account-tool/-/multi-account-tool-0.4.0.tgz"
+  sha256 "a0a37818a2296c260b93fd338763d83ee897684b24ffb1c516e84b6960fa6d8b"
   license "MIT"
 
   depends_on "node"
