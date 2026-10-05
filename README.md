@@ -1,25 +1,25 @@
 # homebrew-mat
 
-Homebrew tap for **mat (multi-account-tool)** — 여러 AI CLI(Claude Code, Codex, Gemini/Antigravity) 계정을 하나의 TUI 에서 빠르게 전환하는 도구.
+Homebrew tap for **mat (multi-account-tool)**, a tool for quickly switching between multiple AI CLI accounts (Claude Code, Codex, Gemini and more) from one TUI.
 
-본 저장소는 [ictechgy/multi-account-tool](https://github.com/ictechgy/multi-account-tool) 의 Homebrew formula 만 보관하는 tap 입니다.
+This repository only holds the Homebrew formula for [ictechgy/multi-account-tool](https://github.com/ictechgy/multi-account-tool).
 
-## 설치
+## Install
 
 ```bash
 brew tap ictechgy/mat
 brew install mat
 ```
 
-## 사용
+## Usage
 
 ```bash
 mat
 ```
 
-자세한 사용법: [main 저장소 README](https://github.com/ictechgy/multi-account-tool#readme).
+See the [main repository README](https://github.com/ictechgy/multi-account-tool#readme) for details. A Korean version is available [here](https://github.com/ictechgy/multi-account-tool/blob/main/README.ko.md).
 
-## 업데이트
+## Update
 
 ```bash
 brew update && brew upgrade mat
@@ -27,4 +27,4 @@ brew update && brew upgrade mat
 
 ## License
 
-MIT — formula 본체는 main 저장소의 [LICENSE](https://github.com/ictechgy/multi-account-tool/blob/main/LICENSE) 를 따른다.
+MIT. The formula follows the main repository's [LICENSE](https://github.com/ictechgy/multi-account-tool/blob/main/LICENSE).
